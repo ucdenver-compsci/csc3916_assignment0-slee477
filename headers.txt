@@ -1,0 +1,23 @@
+Request Headers
+User-Agent: PostmanRuntime/7.36.1 -User Agent set by client 
+Accept: */* -What cleint accepts 
+Postman-Token: d9914786-3b62-4a60-b577-debbefb23e97 -Unique identifier 
+Host: www.googleapis.com -Server and interface
+Accept-Encoding: gzip, deflate, br -Content 
+Connection: keep-alive -Whether network connection is open or close 
+
+
+Response Headers
+Content-Type: application/json; charset=UTF-8 _Give content and the type of returned content 
+Vary: Origin -Parts of request
+Vary: X-Origin -Parts of request
+Vary: Referer -Parts of request 
+Content-Encoding: gzip -Content type
+Date: Mon, 29 Jan 2024 02:10:01 GMT -date message was sent 
+Server: ESF -Software used to handle request 
+Cache-Control: private -Specigy browser caching policies 
+X-XSS-Protection: 0 -Internet feature stops page loading when detection of reflection cross site scripting attacks 
+X-Frame-Options: SAMEORIGIN -Whether browser is allowed to render page
+X-Content-Type-Options: nosniff -Marker that indicates MIME types
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000 -Lets server indicate another network location 
+Transfer-Encoding: chunked -Indicate type of transformation that been used to represnt body
